@@ -12,6 +12,10 @@ The Baton app helps you remember, execute and share a series of tasks, routines 
 <br>
 <br> 2. As a user, I want the ability to create a routine (and if necessary to be able to create it from scratch). And, I want to be able to add any information that might be relevant to the task. I want to be able to add: A routine title, frequency/duration information, and associate a category
 <br>
+<img src='Project Baton_add n share routine.png'>
+
+<br>
+
 <br> 3. As a user, I want the ability to view and edit the specific details of a task. I want to see all of the information that ws added to configure the task and I want to be able to view records for the taks/routines e.g. their completion rates over a period of time.
 <br>
 <br> 4a. As a user I want to be notified when a task/routine is due for completion as per the configured alarm/frequency set up.
